@@ -1,4 +1,6 @@
 # Tower-grove
+This game has been developped in 48H during the 2020 Game Jam at the sussex university site. 
+The theme of the game jam was "repair".
 
 ![](img/README-d42e1ea1.png)
 
